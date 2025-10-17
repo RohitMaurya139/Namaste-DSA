@@ -5,5 +5,5 @@
     return n * factorial(n-1)
  }
 
- const res2= factorial(5)
- console.log(res2)
+ const res= factorial(5)
+ console.log(res)
